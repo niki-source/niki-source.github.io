@@ -1,2 +1,1 @@
-# niki-source.github.io
-My Portfolio!
+## Welcome to Niki's Portfolio!
